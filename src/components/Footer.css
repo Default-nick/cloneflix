@@ -1,0 +1,22 @@
+.footer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 140px
+}
+
+.footer-title{
+    font-weight: 700;
+    color: white
+}
+
+.footer-text{
+    color: white
+}
+
+.footer-link{
+    color: white;
+    text-decoration: underline;
+    font-weight: 500;
+}
